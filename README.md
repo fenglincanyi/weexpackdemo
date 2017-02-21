@@ -5,7 +5,7 @@
 ``` bash
 $ weexpack create projectname
 ```
-生成目录：
+生成目录：<br/><br/>
 ![](http://7xr1vo.com1.z0.glb.clouddn.com/314ED92C-277B-4BA1-BCC4-68CD392F9027.png)
 
 ### 进入项目，安装npm
@@ -25,7 +25,7 @@ $ weexpack platform add android/ios
 $ weexpack platform move android/ios
 ```
 
-添加 android 应用模板：
+添加 android 应用模板：<br/><br/>
 ![](http://7xr1vo.com1.z0.glb.clouddn.com/F80C160D-1A29-438F-B750-2C755D5B53CA.png)
 
 也可以查看已添加的应用模板
@@ -33,7 +33,7 @@ $ weexpack platform move android/ios
 ``` bash
 $ weexpack platform list
 ```
-此处我只安装了Android：
+此处我只安装了Android：<br/><br/>
 ![](http://7xr1vo.com1.z0.glb.clouddn.com/356792C8-F399-4265-819F-E8DB46174D55.png)
 
 ### 运行app
@@ -57,6 +57,6 @@ $ weexpack run web
 会自动打开浏览器
 
 ## 其他
-可参照：
-https://www.npmjs.com/package/weexpack
+可参照：<br/>
+https://www.npmjs.com/package/weexpack<br/>
 https://github.com/dodola/WeexOne
