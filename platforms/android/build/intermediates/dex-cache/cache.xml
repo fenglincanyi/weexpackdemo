@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_f86ca9de0705dad7e402e82df3895640e843a072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d1ee54824a2e6e7b9c8b9b91da005846b8f5a772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_4401ab70042af74ecdb92ef99e69e16eddf70814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_1be2efcad09a37665dc715a44fadecc0ce806c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_912921f852094255dd8808ff963e69266bc8226a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d42f549a51447f08abd1ecc24d275192e4b9e776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_b9a0417d96bcf780e580077c7c910c69168e141c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_a0c4abfaa73a2bdc1fa37591e11cb88b9bae5beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_5951aa883ebb3f3217100d0bc1bc16319b166c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_45f7688e4bf4de95c3548629bca64c54ea840b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_86b11c650becb542018670c2cce2da649e67ddaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/android/appframework/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5dde24f7ba69be6b18ac9dfacf384b1d7200317a">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/android-appframework-unspecified_92fb39dc7755f3763a2d1011c125b1534256a455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_232d2548a86a33472f1717de5524ea46d8b5616f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_a6c4bccfffbf9fc1606153be9dc4ea7c94b86594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_b3a705c2d9951138072e0fc2daf3ebca045d6540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_9e1b24974e3c930928c9f975853c7f1eba35eaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_2b401f02a4ca4c1f64b59cd4c0c4f14cdc6589ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_d40c4c7b70ba503d6e5703dea0cd6ef72f9a619f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_23229149e554b8ea3bfa764c3ab6b476b60cbb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/android/weexplugin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5482776db536d9951a49efce7763e0d5bc8a493f">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/android-weexplugin-unspecified_0494acf2134f6b040ada46e0ad69db72d8a654c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c661d2cd2b4e0f3236d37b1e2b84b2b3a0a19f5">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.10.0_e9d8ad93c749ed2d1db75745d041756edda7affc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_8737cbbef6615e328b2bc5d9eeedc5e9c69eb5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/jacocoagent_f674ab4ee8970d1b0a3c40863ae055bee82ad934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d5f479527ff332afe3a59f43b06f486eea2f2be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_41fbb49d1a35049863a999b5519d373d2a24cd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_6c671f39740425be9e43028edf64c31304cfc478.jar" />
+    </item>
+
+</items>

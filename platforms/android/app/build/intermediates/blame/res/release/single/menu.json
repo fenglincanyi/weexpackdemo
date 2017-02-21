@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/menu/main_scan.xml",
+        "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]
