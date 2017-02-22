@@ -4,22 +4,6 @@
         "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/src/main/res/menu/main_scan.xml"
     },
     {
-        "merged": "/Users/budao/weex-pack/generator/platforms/templates/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
-        "source": "/Users/budao/weex-pack/generator/platforms/templates/android/app/src/main/res/menu/main_scan.xml"
-    },
-    {
-        "merged": "/Users/budao/app-framework-android/bin/templates/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/budao/app-framework-android/bin/templates/app/src/main/res/menu/main.xml"
-    },
-    {
-        "merged": "/Users/budao/weex-pack/generator/platforms/templates/android/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/budao/weex-pack/generator/platforms/templates/android/app/src/main/res/menu/main.xml"
-    },
-    {
-        "merged": "/Users/budao/app-framework-android/bin/templates/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
-        "source": "/Users/budao/app-framework-android/bin/templates/app/src/main/res/menu/main_scan.xml"
-    },
-    {
         "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/src/main/res/menu/main.xml"
     }

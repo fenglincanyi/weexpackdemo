@@ -92,12 +92,12 @@
         "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/geng/weex/my-weex-project/weexpackdemo/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
