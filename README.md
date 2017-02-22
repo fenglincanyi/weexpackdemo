@@ -44,6 +44,10 @@ $ weexpack run android
 gradle 开始 build，并打包，随后会安装至手机
 ![](http://7xr1vo.com1.z0.glb.clouddn.com/89932233-3AF7-4E41-ADC9-06A45D00C161.png)
 
+自己写了个脚本，自动copy项目根路径下的dist目录 至 app/src/main/assets目录下，在prebuild时第一个执行:<br/>
+![](http://7xr1vo.com1.z0.glb.clouddn.com/725BE2D4-D675-474D-B248-B0085A644279.png)
+
+
 
 ### 显示效果
 ![](http://7xr1vo.com1.z0.glb.clouddn.com/device-2017-02-21-214737.png)
